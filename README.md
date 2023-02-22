@@ -1,7 +1,7 @@
 ## Object Detection 
 <br>
 <p align='center'>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmachinelearninggeek.com%2Fanalyzing-sentiment-of-restaurant-reviews%2F&psig=AOvVaw1-nl_symjnPvjmpIaTUJpC&ust=1677047565699000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNClxav_pf0CFQAAAAAdAAAAABAJ" width='70%' >
+<img src="https://www.researchgate.net/profile/Akif-Durdu/publication/334987612/figure/fig2/AS:788766109220866@1565067903918/High-level-diagram-of-SSD-16-for-generic-object-detection.ppm" width='70%' >
 </p>
 <br>
 
@@ -9,16 +9,6 @@ Object Detection using PyTorch for image using SSD | Single Shot Detection in Go
 
 Object Detection in PyTorch for images. For PyTorch Object Detection, we will be using the SSD (Single Shot Detection )algorithm
 
-- Data Preprocessing.
-- Dealing With MissingValues
-- Length of Messages
--  Cleaning the text
-- Create the Bag of words Model.
-- Splitting the dataset.
-- Part 2 : Model Building
-- Naive Bayes.
-- XGBoost Classifier.
-- Part 3:Final Model(XGBooster Classifier).
 
 <br>
 
