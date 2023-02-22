@@ -15,6 +15,7 @@ Object Detection in PyTorch for images. For PyTorch Object Detection, we will be
 ### Built With
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Google Colaboratory](https://www.informatique-mania.com/wp-content/uploads/2020/12/Jupyter.jpg?ezimgfmt=rs:780x390/rscb1/ng:webp/ngcb1)
 
 
 
