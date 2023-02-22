@@ -1,7 +1,7 @@
 ## Object Detection 
 <br>
 <p align='center'>
-<img src="https://www.researchgate.net/profile/Akif-Durdu/publication/334987612/figure/fig2/AS:788766109220866@1565067903918/High-level-diagram-of-SSD-16-for-generic-object-detection.ppm" width='70%' >
+<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/Mockup-website.png" width='70%' >
 </p>
 <br>
 
