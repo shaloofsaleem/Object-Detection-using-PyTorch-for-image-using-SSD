@@ -1,7 +1,7 @@
 ## Object Detection 
 <br>
 <p align='center'>
-<img src="https://d3i71xaburhd42.cloudfront.net/735aa2d3eb0da5dc2e126144eec7030f245defb7/2-Figure1-1.png" width='70%' >
+<img src="https://pianalytix.com/wp-content/uploads/2020/11/Single-Shot-DetectorSSD-Real-Time-Object-Detection-1024x427.jpg" width='70%' >
 </p>
 <br>
 
