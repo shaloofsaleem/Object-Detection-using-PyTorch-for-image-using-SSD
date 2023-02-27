@@ -1,3 +1,13 @@
+
+ <p align="center">
+    Short Discription of the Project
+    <br />
+    <a href="https://iq.opengenus.org/ssd-model-architecture/#:~:text=The%20SSD%20model%20is%20based,backbone%20model%20and%20SSD%20head."><strong>Explore the docs »</strong></a>
+    <br />
+   
+  </p>
+
+
 ## Object Detection 
 <br>
 <p align='center'>
